@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="rating">Оцінка</string>
+    <string name="calculate">Середній бал</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="text_item1">Цей предмет вже вибраний</string>
+    <string name="num">Виберіть оцінку від 1-12</string>
+    <string name="_0"></string>
+</resources>
+
+
